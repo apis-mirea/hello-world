@@ -1,3 +1,3 @@
 # hello-world
 hello world
-let's wtire something at the branch
+let's write something at the branch
